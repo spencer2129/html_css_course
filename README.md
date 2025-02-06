@@ -1,2 +1,2 @@
 # html_css_course
-CSS topics and practice project
+HTML/CSS topics and practice projects
