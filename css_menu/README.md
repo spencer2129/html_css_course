@@ -1,8 +1,8 @@
-#CSS Menu
+# **CSS Menu**
 
-Description: This Mini Project creates a CSS Menu
+**Description:** This Mini Project creates a CSS Menu
 
-##Prerequisites
+## **Prerequisites**
 
 To accomplish this project you should have **CSS** knowledge of
 - Selectors
@@ -15,7 +15,8 @@ To accomplish this project you should have **CSS** knowledge of
 
 You must also have basic knowledge of **HTML**
 
-##Output
+## **Output**
+
 <picture>
   <img alt="Project Output" src="img/output.png" width="300" height="400">
 </picture>
