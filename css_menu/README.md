@@ -10,3 +10,5 @@ Styling Links
 List Styles
 
 You must also have basic knowledge of HTML
+
+/Users/spenceraranda/Desktop/spencer-code/html_css_course/css_menu/img/output.png 
