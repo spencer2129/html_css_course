@@ -1,14 +1,21 @@
-This Mini Project creates a CSS Menu
+#CSS Menu
 
-To accomplish this project you should have CSS knowledge of
-Selectors
-Colors
-Units and Sizes
-The Box Model
-Typography
-Styling Links
-List Styles
+Description: This Mini Project creates a CSS Menu
 
-You must also have basic knowledge of HTML
+##Prerequisites
 
-![project output](img/output.png)
+To accomplish this project you should have **CSS** knowledge of
+- Selectors
+- Colors
+- Units and Sizes
+- The Box Model
+- Typography
+- Styling Links
+- List Styles
+
+You must also have basic knowledge of **HTML**
+
+##Output
+<picture>
+  <img alt="Project Output" src="img/output.png" width="300" height="400">
+</picture>
