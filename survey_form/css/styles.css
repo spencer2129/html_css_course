@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(./../img/dbs-wp3.jpg);
+    background-size: 100%, auto;
+    font-size: 1.1rem;
+    font-family: Tahoma;
+    color: #f5f6f7;
+
+}
+
+.bg-filter {
+    background-color: hsla(0, 0%, 30%, 0.75);
+    width: 100%;
+    min-height: 100vh;
+}
+
+header {
+    padding: 2rem 0;
+    text-align: center;
+}
+header h1 {
+    font-size: 2.4rem;
+}
+
+header p {
+    font-style: italic;
+}
+.survey {
+    max-width: 650px;
+    min-width: 400px;
+    margin: 0 auto;
+    padding: 1rem;
+    border-radius: 1rem;
+    /*background-color: rgba(255,127,0,1); */
+    background-color: rgb(227, 117, 7);
+    border: 2px solid rgba(0,0,0,1);
+}
+label, input {
+    display: block;
+}
+label {
+    /*background-color: red;*/
+}
+input, textarea, select {
+    width: 100%;
+    min-height: 1.5rem;
+    font-size: 1rem;
+    margin: 0.5rem 0 1rem 0;
+}
+
+.inline {
+    display: inline;
+    width: unset;
+    vertical-align: middle;
+    margin: 0;
+}
+
+fieldset {
+    border: none;
+    margin: 1rem 0;
+    /*background-color: blue;*/
+}

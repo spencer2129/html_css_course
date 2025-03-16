@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Dragon Ball Super Survey</title>
+        <link rel="stylesheet" href="css/styles.css">
+    </head>
+    <body>
+        <div class="bg-filter">
+        <header class="container">
+            <h1>Dragon Ball Super Survey</h1>
+            <p>Tell us about your experience with Dragon Ball Super</p>
+        </header>
+        <main>
+            <form class="survey">
+                <fieldset>
+                <label>Enter your name: <input id="name" type="text" name="name" required ></label>
+                <label>Enter your email: <input id="email" type="email" name="email" required ></label>
+                <label>Enter your age: <input id="age" type="number" name="age" required></label>
+                </fieldset>
+                <fieldset>
+                    <legend>What is your gender?</legend>
+                    <label><input class="inline" id="male" type="radio" name="gender" value="male" checked> Male</label>
+                    <label><input class="inline" id="female" type="radio" name="gender" value="female" > Female</label>
+                </fieldset>
+                <label>What is your favorite Dragon Ball Super Saga
+                    <select>
+                        <optgroup label="Gods of the Universe Group">
+                            <option>God of Destruction Beerus</option>
+                            <option>Golden Frieza</option>
+                        </optgroup>
+                        <optgroup label="Zeno Group">
+                            <option>Universe 6</option>
+                            <option>Copy-Vegeta</option>
+                            <option>"Future" Trunks</option>
+                            <option>Universe Survival</option>
+                        </optgroup>
+                        <optgroup label="Universe 7 Group">
+                            <option>Broly</option>
+                            <option>Galatic Patrol Prisioner</option>
+                            <option>Granolah the Survivor</option>
+                        </optgroup>
+                        <optgroup label="Super Hero Group">
+                            <option>High School</option>
+                            <option>Super Hero</option>
+                        </optgroup>
+                    </select>
+                </label>
+                <label><input id="goku" type="checkbox"> Goku</label>
+                <label><input id="vegeta" type="checkbox"> Vegeta</label>
+                <label><input id="beerus" type="checkbox"> Beerus</label>
+                <label><input id="frieza" type="checkbox"> Frieza</label>
+                <label><input id="jiren" type="checkbox"> Jiren</label>
+                <label><input id="hit" type="checkbox"> Hit</label>
+                <label><input id="cabba" type="checkbox"> Cabba</label>
+                <label><input id="broly" type="checkbox"> Broly</label>
+                <label><input id="granolah" type="checkbox"> Granolah</label>
+                <label><input id="moro" type="checkbox" > Moro</label>
+                <label>Tell us about your favorite Dragon Ball Super moment!<textarea rows="4" cols="15"></textarea></label>
+                <button type="submit">submit</button>
+            </form>
+        </main>
+        </div>
+    </body>
+</html>
