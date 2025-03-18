@@ -53,7 +53,7 @@ fieldset {
 label {
     width: 80%;
     display: block;
-    /*margin-top: 1rem;*/
+    margin-top: 1rem;
     
     
 }
@@ -79,7 +79,7 @@ input {
 
 p {
     background-color: lightblue;
-    padding-top: 1rem;
+    
 }
 
 legend {
