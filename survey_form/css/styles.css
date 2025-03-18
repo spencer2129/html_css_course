@@ -45,7 +45,7 @@ fieldset {
     border: none;
     /*background-color: blue;*/
 }
-p {
+.form-group {
     padding: 0.5rem;
     margin-bottom: 0.5rem;
 }
@@ -53,6 +53,7 @@ p {
 label, input {
     display: block;
     width: 100%;
+    margin-top: 5rem;
 }
 
 .input-text {
