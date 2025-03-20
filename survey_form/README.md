@@ -1,22 +1,22 @@
-# **Survey Form*
+# **Survey Form**
 
-**Description:** This Mini Project creates a CSS Menu
+**Description:** This is a simple survey form for Dragon Ball Super.
 
-## **Prerequisites**
-
-To accomplish this project you should have **CSS** knowledge of
-- Selectors
-- Colors
-- Units and Sizes
-- The Box Model
-- Typography
-- Styling Links
-- List Styles
-
-You must also have basic knowledge of **HTML**
+This project uses 
+- Form
+- Fieldsets/Legends
+- Selects
+- Button
+- Labels/Inputs
+- CSS classes
+- radial-gradient
+- grid
+- border-box
+- some understanding of block formatting context
+- and a tad of javascript
 
 ## **Output**
 
 <picture>
-  <img alt="Project Output" src="img/css-menu.jpg" width="300" height="400">
+  <img alt="Project Output" src="img/survey-form.jpg" width="600" height="500">
 </picture>
