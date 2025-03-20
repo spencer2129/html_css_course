@@ -18,5 +18,5 @@ This project uses
 ## **Output**
 
 <picture>
-  <img alt="Project Output" src="./img/survey-form.JPG" width="600" height="500">
+  <img alt="Project Output" src="./img/survey-form.JPG" width="600" height="300">
 </picture>
